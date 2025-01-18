@@ -30,3 +30,19 @@ Bank customer churn prediction is a critical application in the banking and fina
 - EstimatedSalary: The estimated salary of the customer
 
 - Exited: Whether the customer has churned (Target Variable)
+
+# output
+
+# Validation Score 
+
+![output 1](https://github.com/user-attachments/assets/f45332e9-3155-4e40-97a8-8837217eb00d)
+
+
+# Accuracy Score 
+
+![accuracy](https://github.com/user-attachments/assets/b057014a-c143-4197-b401-4d87043f240f)
+
+# Confusion Matrix 
+
+![confusion matrix](https://github.com/user-attachments/assets/fe3102e2-27f4-4bfd-b85f-dde54ec2d47d)
+
